@@ -9,7 +9,7 @@ import org.deeplearning4j.text.tokenization.tokenizerfactory.TokenizerFactory;
 
 import java.util.List;
 
-public class NLPModel {
+public class TrainModel {
 
     public static void main(String[] args) {
         try {
