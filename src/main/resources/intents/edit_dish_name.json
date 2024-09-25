@@ -1,9 +1,16 @@
 {
   "intent": "edit_dish_name",
   "responses": [
-    "O nome do prato {dish_name} foi atualizado para {new_name}.",
-    "O prato foi renomeado com sucesso para {new_name}.",
-    "Alteração realizada: o prato agora se chama {new_name}."
+    "Vou te ajudar a alterar o nome do prato. Por favor, me informe o nome ou ID do prato que deseja alterar.",
+    "Claro, vamos atualizar o nome do prato. Qual é o nome ou ID do prato que você deseja renomear?",
+    "Para alterar o nome do prato, preciso que você me informe o nome ou ID. Pode me dizer?",
+    "Sem problemas, me diga o nome ou ID do prato para atualizarmos o nome.",
+    "Ok, vamos lá! Qual é o nome ou ID do prato que você deseja alterar?",
+    "Para continuar, preciso do nome ou ID do prato cujo nome você quer mudar.",
+    "Ficarei feliz em ajudar. Me informe o nome ou ID do prato para alterarmos o nome.",
+    "Me avise qual é o nome ou ID do prato que você gostaria de renomear.",
+    "Por favor, informe o nome ou ID do prato que precisa de um novo nome.",
+    "Vamos atualizar o nome do prato. Qual é o nome ou ID do prato que você quer modificar?"
   ],
   "messages": [
     "Quero alterar o nome do prato lasanha",
@@ -12,6 +19,25 @@
     "Quero renomear o prato pizza para margherita",
     "Como posso mudar o nome do prato frango xadrez?",
     "Altere o nome do prato para 'Arroz com brócolis'",
-    "Gostaria de editar o nome do prato para 'Salada tropical'"
+    "Gostaria de editar o nome do prato para 'Salada tropical'",
+    "Quero modificar o nome de um prato",
+    "Como posso editar o nome de um prato específico?",
+    "Preciso renomear um prato do cardápio",
+    "Me ajude a mudar o nome de um prato",
+    "Quero ajustar o nome de um prato",
+    "Vamos alterar o nome de um prato do menu",
+    "Como faço para atualizar o nome de um prato que está no cardápio?",
+    "Preciso mudar o nome de um prato",
+    "Quero substituir o nome de um prato por outro",
+    "Gostaria de dar um novo nome a um prato",
+    "Como posso trocar o nome de um prato?",
+    "Me ajude a alterar o nome do prato moqueca",
+    "Quero mudar o nome do prato para 'Risoto de camarão'",
+    "Posso modificar o nome de um prato que já existe?",
+    "Quero trocar o nome do prato frango frito por 'Frango crocante'",
+    "Como renomear um prato no cardápio?",
+    "Preciso de ajuda para editar o nome do prato feijoada",
+    "Me ajude a alterar o nome do prato bacalhau ao forno",
+    "Posso mudar o nome do prato carne de panela para 'Carne ao molho'?"
   ]
 }

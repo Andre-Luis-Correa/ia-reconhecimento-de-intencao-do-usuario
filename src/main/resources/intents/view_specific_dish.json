@@ -1,11 +1,11 @@
 {
   "intent": "view_specific_dish",
   "responses": [
-    "Aqui está o prato que você pediu: {dish_name}.",
-    "Vou te mostrar o prato {dish_name}.",
-    "Você pediu para ver o prato {dish_name}, aqui está!",
-    "Confira os detalhes do prato {dish_name}.",
-    "Aqui estão as informações do prato {dish_name}."
+    "Certo, me informe o nome ou ID do prato que você deseja ver.",
+    "Qual é o nome ou ID do prato que você quer visualizar?",
+    "Me informe o nome ou ID do prato para que eu possa mostrar os detalhes.",
+    "Por favor, me diga o nome ou ID do prato que você quer ver.",
+    "Vou te ajudar, mas preciso que me diga o nome ou ID do prato que deseja visualizar."
   ],
   "messages": [
     "Quero ver o prato lasanha",
@@ -36,6 +36,37 @@
     "O que vem no prato carne de panela?",
     "Quero ver o prato batata gratinada",
     "Me fale sobre o prato tabule",
-    "Quais ingredientes tem no prato canelone de ricota?"
+    "Quais ingredientes tem no prato canelone de ricota?",
+    "Estou curioso para saber sobre o prato lasanha de berinjela",
+    "Me mostre o prato bolinho de bacalhau",
+    "Quero detalhes sobre o prato ceviche",
+    "Como é o prato filé de frango à milanesa?",
+    "Me fale sobre o prato parmegiana vegetariana",
+    "Pode me informar sobre o prato torta de legumes?",
+    "Quero ver como é o prato hambúrguer artesanal",
+    "Como é o preparo do prato frango à passarinho?",
+    "Gostaria de ver o prato spaghetti carbonara",
+    "Quero conhecer o prato quiche de espinafre",
+    "Me mostre o prato burrito de carne",
+    "Como é o prato wrap de frango?",
+    "Quais são os ingredientes do prato crepe de queijo?",
+    "Quero visualizar os detalhes de um prato",
+    "Quero visualizar os ingredientes de um prato",
+    "Preciso ver as informações de um prato",
+    "Quero conhecer a composição de um prato",
+    "Pode me mostrar um prato do menu?",
+    "Como posso saber mais sobre um prato?",
+    "Quero saber o que tem em um prato",
+    "Gostaria de ver o preparo de um prato específico",
+    "Quero entender os detalhes de um prato",
+    "Como faço para ver os detalhes de um prato?",
+    "Preciso de mais informações sobre um prato do cardápio",
+    "Me mostre as características de um prato",
+    "Quero analisar os detalhes de um prato",
+    "Poderia listar os ingredientes de um prato para mim?",
+    "Gostaria de ver como é um prato",
+    "Quero verificar o que há em um prato",
+    "Como é um prato específico do menu?",
+    "Quero explorar os detalhes de um prato"
   ]
 }

@@ -15,7 +15,7 @@ public class LabelledDocumentGenerator {
     public static List<LabelledDocument> generateLabelledDocuments() {
         List<LabelledDocument> labelledDocuments = new ArrayList<>();
         File folder = new File("src/main/resources/intents");
-
+        System.out.println("Quantidade de arquivos a ser processados: " + folder.listFiles().length);
         for (File file : folder.listFiles()) {
             try (FileReader reader = new FileReader(file)) {
                 JsonObject json = JsonParser.parseReader(reader).getAsJsonObject();

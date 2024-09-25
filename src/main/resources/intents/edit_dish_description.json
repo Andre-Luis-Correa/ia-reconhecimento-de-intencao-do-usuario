@@ -1,9 +1,16 @@
 {
   "intent": "edit_dish_description",
   "responses": [
-    "A descrição do prato {dish_name} foi atualizada com sucesso.",
-    "Descrição do prato {dish_name} alterada.",
-    "A descrição foi editada e agora diz: {new_description}."
+    "Vou te ajudar a alterar a descrição. Por favor, me informe o nome ou ID do prato.",
+    "Certo, vamos atualizar a descrição. Qual é o nome ou ID do prato que você deseja alterar?",
+    "Para alterar a descrição, preciso do nome ou ID do prato. Você poderia me informar?",
+    "Sem problemas, me informe o nome ou ID do prato para atualizar a descrição.",
+    "Claro, posso te ajudar. Qual o nome ou ID do prato que você deseja modificar?",
+    "Ok, para alterar a descrição, me diga o nome ou ID do prato, por favor.",
+    "Vamos lá! Qual o nome ou ID do prato cuja descrição você deseja alterar?",
+    "Ficarei feliz em ajudar. Por favor, me informe o nome ou ID do prato para que eu possa continuar.",
+    "Me avise o nome ou ID do prato para que eu possa alterar a descrição.",
+    "Por favor, me informe o nome ou ID do prato que você deseja alterar a descrição."
   ],
   "messages": [
     "Quero alterar a descrição do prato lasanha",
@@ -12,6 +19,20 @@
     "Gostaria de editar a descrição do prato bife com batatas",
     "Posso mudar a descrição do prato frango assado?",
     "Altere a descrição do prato para 'Prato típico italiano com molho de tomate e queijo'",
-    "Quero modificar a descrição para 'Delicioso prato de carne com molho'"
+    "Quero modificar a descrição para 'Delicioso prato de carne com molho'",
+    "Gostaria de atualizar a descrição de um prato",
+    "Preciso mudar a descrição de um prato",
+    "Como posso editar a descrição de um prato?",
+    "Me ajude a alterar a descrição de um prato específico",
+    "Vamos modificar a descrição de um prato",
+    "Como faço para atualizar a descrição de um prato no cardápio?",
+    "Preciso editar a descrição de um prato específico",
+    "Quero mudar a descrição de um prato no menu",
+    "Posso modificar a descrição de um prato?",
+    "Me ajude a atualizar a descrição do prato strogonoff",
+    "Altere a descrição do prato para algo mais detalhado",
+    "Gostaria de fazer ajustes na descrição de um prato",
+    "Quero melhorar a descrição de um prato",
+    "Como posso alterar a descrição do prato que está no menu?"
   ]
 }

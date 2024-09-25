@@ -1,10 +1,11 @@
 {
   "intent": "remove_dish",
   "responses": [
-    "O prato {dish_name} foi removido com sucesso.",
-    "Prato {dish_name} excluído do cardápio.",
-    "O prato {dish_name} foi deletado.",
-    "Prato {dish_name} removido da lista."
+    "Vamos remover um prato. Informe o nome ou ID do prato a ser excluído.",
+    "Por favor, me informe o nome ou ID do prato que você deseja excluir.",
+    "Certo, me diga o nome ou ID do prato que quer remover do cardápio.",
+    "Qual é o nome ou ID do prato que você quer que eu remova?",
+    "Para proceder com a exclusão, preciso do nome ou ID do prato."
   ],
   "messages": [
     "Quero remover o prato lasanha",
@@ -32,6 +33,36 @@
     "Posso apagar o prato yakisoba do cardápio?",
     "Quero excluir o prato bolinho de bacalhau",
     "Como faço para remover o prato bruschetta?",
-    "Apague o prato carbonara do menu"
+    "Apague o prato carbonara do menu",
+    "Remova o prato peixe grelhado",
+    "Quero deletar o prato lasanha à bolonhesa",
+    "Tem como apagar o prato purê de batata?",
+    "Gostaria de excluir o prato frango com quiabo",
+    "Quero remover o prato espeto de carne",
+    "Preciso tirar o prato bacalhau à brás do cardápio",
+    "Como faço para eliminar o prato torta de frango?",
+    "Excluir definitivamente o prato costelinha",
+    "Quero retirar o prato cuscuz nordestino",
+    "Como posso excluir o prato caldo verde?",
+    "Desativar o prato tapioca de queijo",
+    "Remova do menu o prato pastel de queijo",
+    "Preciso excluir o prato empada de camarão",
+    "Quero deletar o prato sopa de legumes",
+    "Pode retirar o prato escondidinho de carne seca?",
+    "Remover o prato picanha ao alho",
+    "Como tirar o prato moqueca de camarão?",
+    "Excluir o prato caldo de mocotó",
+    "Quero apagar o prato strogonoff de frango",
+    "Me ajude a excluir o prato macarrão alho e óleo",
+    "Preciso que remova o prato camarão à milanesa",
+    "Quero deletar o prato parmegiana de berinjela",
+    "Como faço para tirar o prato polenta com queijo?",
+    "Gostaria de eliminar o prato bolo de cenoura",
+    "Quero retirar o prato filé mignon com fritas",
+    "Apague o prato ravióli de espinafre",
+    "Remover o prato carpaccio de salmão",
+    "Desative o prato arroz carreteiro",
+    "Quero apagar o prato escondidinho de calabresa",
+    "Posso retirar o prato farofa de ovos do cardápio?"
   ]
 }
