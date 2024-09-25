@@ -1,0 +1,17 @@
+{
+  "intent": "edit_dish_categoria",
+  "responses": [
+    "A categoria do prato {dish_name} foi alterada para {new_category}.",
+    "Agora o prato {dish_name} pertence à categoria {new_category}.",
+    "Categoria atualizada com sucesso para {new_category}."
+  ],
+  "messages": [
+    "Quero alterar a categoria do prato lasanha",
+    "Como faço para mudar a categoria do prato feijoada?",
+    "Preciso atualizar a categoria do prato pizza",
+    "Gostaria de editar a categoria do prato bife com batatas",
+    "Posso mudar a categoria do prato frango assado?",
+    "Altere a categoria do prato para 'Massas'",
+    "Quero modificar a categoria para 'Carnes'"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "intent": "edit_dish_description",
+  "responses": [
+    "A descrição do prato {dish_name} foi atualizada com sucesso.",
+    "Descrição do prato {dish_name} alterada.",
+    "A descrição foi editada e agora diz: {new_description}."
+  ],
+  "messages": [
+    "Quero alterar a descrição do prato lasanha",
+    "Como faço para mudar a descrição do prato feijoada?",
+    "Preciso atualizar a descrição do prato pizza",
+    "Gostaria de editar a descrição do prato bife com batatas",
+    "Posso mudar a descrição do prato frango assado?",
+    "Altere a descrição do prato para 'Prato típico italiano com molho de tomate e queijo'",
+    "Quero modificar a descrição para 'Delicioso prato de carne com molho'"
+  ]
+}

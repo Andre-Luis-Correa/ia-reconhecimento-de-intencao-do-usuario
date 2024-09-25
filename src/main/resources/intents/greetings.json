@@ -1,0 +1,29 @@
+{
+  "intent": "greetings",
+  "responses": [
+    "Olá! Como posso ajudar você hoje?",
+    "Oi! Bem-vindo! O que gostaria de saber?",
+    "Olá! Em que posso ser útil?",
+    "Oi! Como posso te ajudar hoje?",
+    "Seja bem-vindo! Como posso ajudar?"
+  ],
+  "messages": [
+    "Olá",
+    "Ola",
+    "ola",
+    "Oi",
+    "Bom dia",
+    "Boa tarde",
+    "Boa noite",
+    "E aí",
+    "Oi, tudo bem?",
+    "Como vai?",
+    "Olá, como está?",
+    "Oi, tem alguém aí?",
+    "Oi, tudo bom?",
+    "Alô",
+    "Oi, pessoal",
+    "Saudações",
+    "Oi, como estão as coisas?"
+  ]
+}

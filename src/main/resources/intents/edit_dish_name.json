@@ -1,0 +1,17 @@
+{
+  "intent": "edit_dish_name",
+  "responses": [
+    "O nome do prato {dish_name} foi atualizado para {new_name}.",
+    "O prato foi renomeado com sucesso para {new_name}.",
+    "Alteração realizada: o prato agora se chama {new_name}."
+  ],
+  "messages": [
+    "Quero alterar o nome do prato lasanha",
+    "Como faço para mudar o nome do prato feijoada?",
+    "Preciso atualizar o nome do prato bife com batatas",
+    "Quero renomear o prato pizza para margherita",
+    "Como posso mudar o nome do prato frango xadrez?",
+    "Altere o nome do prato para 'Arroz com brócolis'",
+    "Gostaria de editar o nome do prato para 'Salada tropical'"
+  ]
+}

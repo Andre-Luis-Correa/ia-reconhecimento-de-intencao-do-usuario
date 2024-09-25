@@ -1,0 +1,41 @@
+{
+  "intent": "view_specific_dish",
+  "responses": [
+    "Aqui está o prato que você pediu: {dish_name}.",
+    "Vou te mostrar o prato {dish_name}.",
+    "Você pediu para ver o prato {dish_name}, aqui está!",
+    "Confira os detalhes do prato {dish_name}.",
+    "Aqui estão as informações do prato {dish_name}."
+  ],
+  "messages": [
+    "Quero ver o prato lasanha",
+    "Me mostre o prato bife com batatas",
+    "Como é o prato strogonoff?",
+    "Gostaria de ver a descrição do prato feijoada",
+    "Quero saber mais sobre o prato pizza de calabresa",
+    "Pode me mostrar o prato frango assado?",
+    "Como é o prato churrasco com farofa?",
+    "Me fale sobre o prato coxinha de jaca",
+    "Quais são os ingredientes do prato polenta frita?",
+    "Quero detalhes sobre o prato espaguete à bolonhesa",
+    "Como é feito o prato peixe grelhado?",
+    "Gostaria de ver o prato costela assada",
+    "Poderia mostrar o prato moqueca de camarão?",
+    "Quero conhecer o prato escondidinho de carne seca",
+    "Me conte sobre o prato bobó de camarão",
+    "Como é o prato arroz de pato?",
+    "O que tem no prato risoto de cogumelos?",
+    "Quero ver a receita do prato feijão tropeiro",
+    "Me mostre o prato filé mignon",
+    "Como é o prato salmão ao molho de maracujá?",
+    "Pode me mostrar o prato frango ao curry?",
+    "Quero saber como é o prato nhoque de batata doce",
+    "Mostre-me o prato bacalhau à brás",
+    "Gostaria de conhecer o prato camarão à milanesa",
+    "Como é servido o prato bife à parmegiana?",
+    "O que vem no prato carne de panela?",
+    "Quero ver o prato batata gratinada",
+    "Me fale sobre o prato tabule",
+    "Quais ingredientes tem no prato canelone de ricota?"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "intent": "edit_dish_reais_price",
+  "responses": [
+    "O valor em reais do prato {dish_name} foi atualizado para R$ {new_value}.",
+    "O preço do prato {dish_name} agora é R$ {new_value}.",
+    "Atualizamos o valor do prato para R$ {new_value}."
+  ],
+  "messages": [
+    "Quero alterar o preço do prato lasanha",
+    "Como faço para mudar o valor do prato feijoada?",
+    "Preciso atualizar o valor em reais do prato pizza",
+    "Gostaria de editar o preço do prato bife com batatas",
+    "Posso mudar o valor do prato frango assado?",
+    "Altere o valor do prato para 25.99",
+    "Quero modificar o preço para 32.50"
+  ]
+}

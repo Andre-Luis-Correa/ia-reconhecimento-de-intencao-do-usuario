@@ -1,0 +1,17 @@
+{
+  "intent": "edit_dish_valorPontos",
+  "responses": [
+    "O valor em pontos do prato {dish_name} foi atualizado para {new_points} pontos.",
+    "O prato {dish_name} agora custa {new_points} pontos.",
+    "O valor do prato em pontos foi alterado para {new_points}."
+  ],
+  "messages": [
+    "Quero alterar o valor em pontos do prato lasanha",
+    "Como faço para mudar os pontos necessários para o prato feijoada?",
+    "Preciso atualizar o valor em pontos do prato pizza",
+    "Gostaria de editar os pontos do prato bife com batatas",
+    "Posso mudar o valor do prato frango assado para 150 pontos?",
+    "Altere os pontos do prato para 200",
+    "Quero modificar o valor em pontos para 180"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "intent": "remove_dish",
+  "responses": [
+    "O prato {dish_name} foi removido com sucesso.",
+    "Prato {dish_name} excluído do cardápio.",
+    "O prato {dish_name} foi deletado.",
+    "Prato {dish_name} removido da lista."
+  ],
+  "messages": [
+    "Quero remover o prato lasanha",
+    "Como faço para excluir o prato feijoada?",
+    "Preciso deletar o prato pizza",
+    "Gostaria de remover o prato bife com batatas",
+    "Posso excluir o prato frango assado?",
+    "Quero apagar o prato salada caesar",
+    "Como posso tirar o prato coxinha de frango do cardápio?",
+    "Altere o cardápio excluindo o prato risoto",
+    "Gostaria de deletar o prato camarão na moranga",
+    "Tem como remover o prato frango xadrez?",
+    "Apague o prato arroz com brócolis",
+    "Quero retirar o prato escondidinho do cardápio",
+    "Desative o prato filé à parmegiana",
+    "Como faço para deletar o prato pastéis variados?",
+    "Preciso remover o prato carne de sol com mandioca",
+    "Exclua o prato moqueca de peixe",
+    "Retire o prato espaguete ao sugo do cardápio",
+    "Como posso remover o prato sushi?",
+    "Desative o prato picanha grelhada",
+    "Quero deletar o prato linguiça acebolada",
+    "Excluir o prato feijoada completa",
+    "Quero retirar o prato polenta frita",
+    "Posso apagar o prato yakisoba do cardápio?",
+    "Quero excluir o prato bolinho de bacalhau",
+    "Como faço para remover o prato bruschetta?",
+    "Apague o prato carbonara do menu"
+  ]
+}
