@@ -24,7 +24,7 @@ public class LabelledDocumentGenerator {
 
                 for (int i = 0; i < messages.size(); i++) {
                     LabelledDocument doc = new LabelledDocument();
-                    String rawMessage = messages.get(i).getAsString();
+                    String rawMessage = messages.get(i).getAsString().toLowerCase();
                     doc.setContent(rawMessage);
                     doc.setLabel(intent);
                     labelledDocuments.add(doc);

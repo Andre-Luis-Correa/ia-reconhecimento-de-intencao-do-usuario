@@ -15,7 +15,7 @@ public class ChatBot {
             String userMessage = scanner.nextLine();
 
             // Obter a intenção prevista pelo modelo
-            String predictedIntent = model.predictIntent(userMessage);
+            String predictedIntent = model.predictIntent(userMessage.toLowerCase());
             // Obter a resposta baseada na intenção
             String response = model.getResponse(predictedIntent);
 

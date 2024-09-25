@@ -2,19 +2,19 @@
   "intent": "create_dish",
   "responses": [
     "Vamos cadastrar o novo prato no menu.",
-    "Ok, vamos adicionar um novo prato.",
-    "Vou te ajudar a adicionar um novo prato.",
-    "Vamos inserir o novo prato.",
-    "Estou pronto para ajudar a adicionar seu prato.",
-    "Vamos começar a adicionar o novo prato.",
-    "Pode deixar, vamos incluir seu prato no cardápio.",
-    "Claro, vamos criar o novo prato agora.",
-    "Certo, vamos adicionar o prato ao menu.",
-    "Iniciando o cadastro do novo prato.",
-    "Vamos lá, seu novo prato será adicionado.",
-    "Estou aqui para te ajudar a adicionar o prato.",
-    "Vamos incluir o novo prato agora mesmo.",
-    "Vamos criar esse novo prato juntos."
+    "Ok, vamos adicionar um novo prato ao cardápio.",
+    "Vou te ajudar a inserir um novo prato.",
+    "Vamos adicionar seu prato à lista de opções.",
+    "Estou aqui para te ajudar a cadastrar o novo prato.",
+    "Vamos começar a incluir o novo prato agora mesmo.",
+    "Pode deixar, vamos registrar seu prato no cardápio.",
+    "Claro, vamos criar o prato que você deseja.",
+    "Certo, vamos adicionar o prato ao nosso menu.",
+    "Vamos começar com a criação do seu prato.",
+    "Preparando para adicionar o novo prato ao menu.",
+    "Estou pronto para te ajudar a incluir o prato que você quer.",
+    "Vamos adicionar o prato ao cardápio.",
+    "Estamos prontos para criar o prato que você deseja."
   ],
   "messages": [
     "Quero criar um novo prato",
@@ -53,6 +53,16 @@
     "Preciso adicionar um prato chamado 'Pastel de queijo'.",
     "Como faço para incluir um prato especial no cardápio?",
     "Vamos cadastrar um prato novo chamado 'Frango assado'.",
-    "Preciso de ajuda para adicionar um novo prato ao menu."
+    "Preciso de ajuda para adicionar um novo prato ao menu.",
+    "Gostaria de criar um prato chamado 'Torta de frango'.",
+    "Quero cadastrar uma nova opção de prato",
+    "Como posso adicionar o prato 'Arroz com brócolis'?",
+    "Quero incluir o prato 'Salmão grelhado' no cardápio",
+    "Como faço para adicionar o prato 'Costela assada' ao menu?",
+    "Me ajude a criar o prato 'Carne de panela'",
+    "Posso adicionar o prato 'Escondidinho de carne' ao cardápio?",
+    "Quero incluir o prato 'Pudim de leite' na lista de sobremesas",
+    "Gostaria de criar um novo prato chamado 'Camarão à milanesa'",
+    "Como cadastro um prato chamado 'Risoto de frutos do mar'?"
   ]
 }
