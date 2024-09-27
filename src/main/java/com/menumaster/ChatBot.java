@@ -12,10 +12,10 @@ public class ChatBot {
 
         while (true) {
             System.out.print("Você: ");
-            String userMessage = scanner.nextLine();
+            String userMessage = TextFormatter.removeAccentsAndToLower(scanner.nextLine());
 
             // Obter a intenção prevista pelo modelo
-            String predictedIntent = model.predictIntent(userMessage.toLowerCase());
+            String predictedIntent = model.predictIntent(userMessage);
             // Obter a resposta baseada na intenção
             String response = model.getResponse(predictedIntent);
 
