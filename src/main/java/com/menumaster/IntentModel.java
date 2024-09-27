@@ -26,8 +26,8 @@ public class IntentModel {
         vec = new ParagraphVectors.Builder()
                 .iterate(iterator)
                 .tokenizerFactory(tokenizerFactory)
-                .epochs(20)
-                .layerSize(200)
+                .epochs(30)
+                .layerSize(300)
                 .learningRate(0.025)
                 .build();
 
